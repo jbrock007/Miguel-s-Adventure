@@ -1,6 +1,6 @@
-# gamedev_wise2023_a
+# gamedev_wise2023
 
-Game of group 1
+Game of Group 1
 
 ## Getting started
 
